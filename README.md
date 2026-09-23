@@ -33,8 +33,8 @@ The data was analyzed based on:
 - Average talk duration
 - Call topics
 
-Dashboard
-"Call Center Dashboard" (Dashboard.png)
+## Dashboard
+![Call Center Dashboard](./Dashboard.png)
 
 Project Files
 - "Call_Center_Analysis_Dashboard.xlsx" — Complete Excel project
